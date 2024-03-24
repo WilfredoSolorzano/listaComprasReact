@@ -1,0 +1,31 @@
+.shopping-list {
+    max-width: 250px;
+    margin: 0 25px;
+    background-color: #5ee0f7f1;
+    border: 2px solid hsla(0, 0%, 0%, 0.63);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .shopping-list h2 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .shopping-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .shopping-list li {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+
+  .eliminar{
+    margin-left: 15px;
+    background-color: red;
+    border: none;
+    font-size: 10px;
+  }

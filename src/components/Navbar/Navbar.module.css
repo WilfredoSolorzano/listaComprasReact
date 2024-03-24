@@ -1,0 +1,28 @@
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #cf3232;
+    color: #fff;
+  }
+  
+  .left {
+    font-size: 24px;
+  }
+  
+  .right {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  .right li {
+    margin-left: 20px;
+  }
+  
+  .right li a {
+    color: #fff;
+    text-decoration: none;
+  }
